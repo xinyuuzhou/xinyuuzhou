@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xinyuuzhou
-- 👀 I’m interested in digital epidemiology and machine learning for health
-- 🌱 I’m currently learning public health at Fudan Univ., Shanghai, China
-- 📫 You can email me @ xinyuzhou17[at]fudan[dot]edu[dot]cn
+- 👀 I’m interested in social media analysis and machine learning for health.
+- 🌱 I’m currently a graduate student in Biostatistics (Data Science Pathway) at Yale Univ.
+- 🙉 You can learn more about my research on [Google Scholar](https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en)!
 
 <!---
 xinyuuzhou/xinyuuzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
