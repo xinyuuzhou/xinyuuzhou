@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xinyu Zhou
+- 👋 Hi, I’m Xinyu Zhou. Nice to virtually meet you!
 - 🐙 I spent most of my childhood in Guangzhou, a beautiful metropolis in China.
 - 🚌 I like traveling to new places and meeting new people!
 - 👀 My research interest lies in social media analysis, health data science, and global public health.
