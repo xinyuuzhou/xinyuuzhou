@@ -2,6 +2,8 @@ Hi there! It's a pleasure to meet you virtually. My name is Xinyu Zhou, and I am
 
 Google scholar: https://scholar.google.com/citations?user=lP_Xz1UAAAAJ&hl=en
 
+Research interest: clinical NLP, public health NLP
+
 <!---
 xinyuuzhou/xinyuuzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
